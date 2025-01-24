@@ -17,7 +17,8 @@ public class GradeCalculator {
 			int marks = sc.nextInt();
 			list.add(marks);
 		}
-		int sum = list.stream().reduce(0,(x, y) -> x + y);
+		int sum = list.stream().reduce(0, Integer::sum);
+
 		
 		double avg = sum / list.size();
 		String grade;
