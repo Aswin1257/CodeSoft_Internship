@@ -1,8 +1,8 @@
 package ATM_Interface_Task3.atmapp;
 import java.util.*;
 
-import Atm.AtmImplementation;
-import account.UserAccount;
+import  ATM_Interface_Task3.atm.AtmImplementation;
+import  ATM_Interface_Task3.account.UserAccount;
 
 
 public class SbiAtm {

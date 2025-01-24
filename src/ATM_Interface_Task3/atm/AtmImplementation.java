@@ -1,6 +1,6 @@
 package ATM_Interface_Task3.atm;
 
-import account.UserAccount;
+import  ATM_Interface_Task3.account.UserAccount;
 
 public class AtmImplementation implements Atm {
 	private UserAccount userAccount;
