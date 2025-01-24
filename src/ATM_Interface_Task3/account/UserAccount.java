@@ -1,4 +1,4 @@
-package account;
+package ATM_Interface_Task3.account;
 
 public class UserAccount {
 	private int balance;

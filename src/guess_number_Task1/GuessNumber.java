@@ -1,5 +1,5 @@
 
-package guess_number;
+package guess_number_Task1;
 
 
 import java.util.*;

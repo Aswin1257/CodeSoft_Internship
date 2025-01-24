@@ -1,6 +1,6 @@
 
 
-package grade_calculator;
+package grade_calculator_Task2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
