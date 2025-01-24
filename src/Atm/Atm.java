@@ -1,4 +1,4 @@
-package com.atm;
+package Atm;
 
 public interface Atm {
 	void withdraw(int amount);

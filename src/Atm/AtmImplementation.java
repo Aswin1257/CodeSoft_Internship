@@ -1,6 +1,6 @@
-package com.atm;
+package Atm;
 
-import com.account.UserAccount;
+import account.UserAccount;
 
 public class AtmImplementation implements Atm {
 	private UserAccount userAccount;

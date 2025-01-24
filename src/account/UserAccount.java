@@ -1,4 +1,4 @@
-package com.account;
+package account;
 
 public class UserAccount {
 	private int balance;

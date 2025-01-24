@@ -1,7 +1,9 @@
-package com.atmapp;
+package atmapp;
 import java.util.*;
-import com.account.UserAccount;
-import com.atm.AtmImplementation;
+
+import Atm.AtmImplementation;
+import account.UserAccount;
+
 
 public class SbiAtm {
 	public static void main(String[] args) {
